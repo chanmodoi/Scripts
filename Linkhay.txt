@@ -1,0 +1,97 @@
+﻿///Send Link
+javascript:void((function()
+{if(typeof%20LH_Link_Post_Bookmarklet=='undefined')
+{var%20e1=document.createElement('input');
+e1.setAttribute('type','hidden');
+e1.setAttribute('id','lh_bookmarklet_link_base_url');
+e1.setAttribute('value','//linkhay.com');
+document.body.appendChild(e1);
+var%20e=document.createElement('script');
+e.setAttribute('type','text/javascript');
+e.setAttribute('src','//linkhay.com/js/link/post/adapter/bookmarklet/main.js');
+document.body.appendChild(e);}else{LH_Link_Post_Bookmarklet.render();}})())
+
+
+
+javascript:void((function(){var%20aaa=window.frames[window.frames.length-1];var%20bbb=aaa.document.getElementById("link-post-frm-title");bbb.value=document.title;})())
+
+javascript:void((function(){})())
+setTimeout(function(){var%20aaa=window.frames[window.frames.length-1];var%20bbb=aaa.document.getElementById("link-post-frm-title");bbb.value=document.title;},5000);
+console.log(aaa);
+
+
+$.LHLinkPosterAdapter.requestReturnData = {"result":"OK","html":"\n<div class=\"border-wrap success-frm\">    \r\n    <div>\r\n        <div class=\"message\">B\u1ea1n \u0111\u00e3 chia s\u1ebb link th\u00e0nh c\u00f4ng<\/div>\r\n        <a href=\"http:\/\/linkhay.com\/\/no-sech-post-anh-may-em-chan-dai-quan-short-vay-ngan\/922534\" target=\"_blank\" class=\"goto\" onclick=\"setTimeout(function(){ $('.mrk-close-btn').trigger('click'); }, 50)\"><img src=\"\/\/linkhay2.vcmedia.vn\/l\/templates\/images\/null.png\" class=\"icon\" \/> Xem link v\u1eeba g\u1eedi<\/a>\r\n    <\/div>\r\n    <div>\r\n        H\u1ec7 th\u1ed1ng s\u1ebd t\u1ef1 \u0111\u1ed9ng \u0111\u00f3ng l\u1ea1i trong <span class=\"close-countdown\" id=\"auto-close-countdown\" rel=\"10\">10<\/span> gi\u00e2y\r\n    <\/div>\r\n<\/div>"}
+
+            var data = {};
+            
+            data.url = window.location.href;
+            data.cat = "12";
+            data.title = document.title;
+            data.desc = "";
+            data.thumb = "http://motor.geocities.jp/albumanhtupro/Avatar-MatCuoi/hahab.jpg";
+            data.embed = "";
+            data.share_fb = 0;
+
+
+cat: "1"
+desc: "Thông điệp phụ - không bắt buộc"
+embed: ""
+share_fb: 0
+thumb: "http://www.thuviencantho.org.vn/images/truyen/mathienky.jpg"
+title: "Những Truyện Tiên Hiệp Đáng Đọc Nhất!!!↵"
+url: "http://vozforums.com/showthread.php?t=4309653"
+
+
+bbb=document.getElementsByTagName("iframe")[document.getElementsByTagName("iframe").length-1].contentWindow.$.LHLinkPosterAdapter._poster._submitLink(data)
+
+document.getElementsByTagName("DIV")[document.getElementsByTagName("DIV").length-1].style.display="none"; var data = {};data.url = window.location.href;data.cat = "12";data.title = document.title;data.desc = "";data.thumb = "http://motor.geocities.jp/albumanhtupro/Avatar-MatCuoi/hahab.jpg";data.embed = "";data.share_fb = 0;document.getElementsByTagName("iframe")[document.getElementsByTagName("iframe").length-1].contentWindow.$.LHLinkPosterAdapter._poster._submitLink(data);
+
+javascript:void((function(){if(typeof LH_Link_Post_Bookmarklet=='undefined'){var e1=document.createElement('input');e1.setAttribute('type','hidden');e1.setAttribute('id','lh_bookmarklet_link_base_url');e1.setAttribute('value','//linkhay.com');document.body.appendChild(e1);var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('src','//linkhay.com/js/link/post/adapter/bookmarklet/main.js');document.body.appendChild(e);}else{LH_Link_Post_Bookmarklet.render();};setTimeout(function(){document.getElementsByTagName("DIV")[document.getElementsByTagName("DIV").length-1].style.display="none"; var host=window.location.hostname;var data = {};data.url = window.location.href;if((host=="www.tinhte.vn")||(host=="genk.vn")||(host=="vnreview.vn")||(host=="www.techz.vn"))data.cat = "12";else data.cat = "1";data.title = document.title;data.desc = "";data.thumb = "http://motor.geocities.jp/albumanhtupro/Avatar-MatCuoi/hahab.jpg";var imgs=document.getElementsByTagName("IMG");var max=0;for(var i=0;i<imgs.length;i++){if(imgs[i].width*imgs[i].height>max){max=imgs[i].width*imgs[i].height;data.thumb=imgs[i].src;}};data.embed = "";data.share_fb = 0;document.getElementsByTagName("iframe")[document.getElementsByTagName("iframe").length-1].contentWindow.$.LHLinkPosterAdapter._poster._submitLink(data);},3000);})())
+
+//Send Image
+javascript:void((function(){if(typeof%20LH_Link_Post_Bookmarklet=='undefined'){var%20e1=document.createElement('input');e1.setAttribute('type','hidden');e1.setAttribute('id','lh_bookmarklet_link_base_url');e1.setAttribute('value','//linkhay.com');document.body.appendChild(e1);var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('src','//linkhay.com/js/link/post/adapter/bookmarklet/main.js');document.body.appendChild(e);}else{LH_Link_Post_Bookmarklet.render();};setTimeout(function(){var aaa=window.frames[window.frames.length-1];var bbb=aaa.document.getElementById("link-post-frm-title");bbb.value=document.title; var ccc=aaa.document.getElementById("link-post-frm-cat"); if(window.location.host=="genk.vn")ccc.value=12;},3000);})())
+
+
+
+
+Object {title: ":-)", description: "", share_to: Array[0], facebook: 0, file_src: "http://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-xt…gda__=1446191434_a10be1e6fb84a2ba03417b910c4f7402"…}act: "save"description: ""facebook: 0file_src: "http://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-0/11701224_682496878560686_7392940023901388508_n.jpg?efg=eyJpIjoiYiJ9&oh=96c7f0783cb671f0c60ea808566b02ca&oe=5624A37C&__gda__=1446191434_a10be1e6fb84a2ba03417b910c4f7402"share_to: Array[0]title: ":-)"__proto__: Object
+act: "save"
+description: ""
+facebook: 0
+file_src: "http://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-0/11701224_682496878560686_7392940023901388508_n.jpg?efg=eyJpIjoiYiJ9&oh=96c7f0783cb671f0c60ea808566b02ca&oe=5624A37C&__gda__=1446191434_a10be1e6fb84a2ba03417b910c4f7402"
+share_to: Array[0]
+title: ":-)"
+__proto__: Object
+
+
+
+
+
+
+
+var data = {};
+data.title = ":))";
+data.description = "";
+data.share_to = new Array();
+data.facebook = 0;
+data.file_src = window.location.href;
+data.act = "save";
+
+
+bbb=document.getElementsByTagName("iframe")[0]
+bookmarklet=bbb.contentWindow.bookmarklet;
+
+bookmarklet.crossRequest({params : data,  callback : bookmarklet.submitCallback})
+
+
+
+var data = {};data.title = "Xinh gái";data.description = "";data.share_to = new Array();data.facebook = 0;data.file_src = window.location.href;data.act = "save";var bookmarklet=document.getElementsByTagName("iframe")[0].contentWindow.bookmarklet;bookmarklet.crossRequest({params : data,  callback : bookmarklet.submitCallback});
+
+
+
+
+
+
+
+javascript:void((function(){if(typeof%20lh_bookmarklet_comic_class=='undefined'){var%20e1=document.createElement('input');e1.setAttribute('type','hidden');e1.setAttribute('id','bookmarklet_base_url_id');e1.setAttribute('value','//linkhay.com');document.body.appendChild(e1);var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('src','//linkhay.com/js/photo/bookmarklet.js');document.body.appendChild(e);}else{lh_bookmarklet_comic.setup();}; setTimeout(function(){var data = {};data.title = "Xinh gái";data.description = "";data.share_to = new Array();data.facebook = 0;data.file_src = window.location.href;data.act = "save";var bookmarklet=document.getElementsByTagName("iframe")[0].contentWindow.bookmarklet;bookmarklet.crossRequest({params : data,  callback : bookmarklet.submitCallback});document.getElementsByTagName("div")[0].style.display="none";},3000);})())
+setTimeout(function(){document.getElementsByTagName("div")[0].style.display="none";},3000);

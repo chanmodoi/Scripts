@@ -1,0 +1,1 @@
+javascript:var st=",{\"name\": \""+document.getElementsByClassName("spf-link branded-page-header-title-link yt-uix-sessionlink")[0].title+"\", \"id\":\""+ window.location.pathname.substring(1,window.location.pathname.length)+"/\"}"; window.prompt("Copy to clipboard: Ctrl+C, Enter", st);void(0);
